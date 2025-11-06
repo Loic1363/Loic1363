@@ -7,5 +7,9 @@
   </a>
 </p>
 
-![snake gif](https://github.com/Loic1363/Loic1363/blob/output/pacman-contributions.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/[Loic1363]/[Loic1363]/-/raw/main/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/[Loic1363]/[Loic1363]/-/raw/main/output/pacman-contribution-graph-light.svg">
+  <img alt="pacman contribution graph" src="https://gitlab.com/[Loic1363]/[Loic1363]/-/raw/main/output/pacman-contribution-graph-light.svg">
+</picture>
 
