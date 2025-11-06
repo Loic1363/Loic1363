@@ -1,9 +1,16 @@
-<p align="center">
-  <a href="https://github.com/Loic1363/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Loic1363&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/Loic1363/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Loic1363&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" />-
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Loic1363/github-readme-stats">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=Loic1363&theme=transparent&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Loic1363/convoychat">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Loic1363&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ![snake gif](https://github.com/Loic1363/Loic1363/blob/output/github-snake-dark.svg)
