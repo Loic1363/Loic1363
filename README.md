@@ -18,7 +18,3 @@
     alt="pacman contribution graph" 
     src="https://raw.githubusercontent.com/Loic1363/Loic1363/output/pacman-contribution-graph.svg">
 </picture>
-
-<small>
-  _generated with <a href="https://abozanona.github.io/pacman-contribution-graph/">abozanona/pacman-contribution-graph</a>_
-</small>
