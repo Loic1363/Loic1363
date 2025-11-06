@@ -4,7 +4,7 @@
   </a>
   <a href="https://github.com/Loic1363/convoychat">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Loic1363&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" />
+    ![snake gif](https://github.com/Loic1363/Loic1363/blob/output/github-snake-dark.svg)
+
   </a>
 </p>
-
-![snake gif](https://github.com/Loic1363/Loic1363/blob/output/github-snake-dark.svg)
