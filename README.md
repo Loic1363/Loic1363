@@ -1,2 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loic1363&show_icons=true&layout=compact&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loic1363&layout=compact&theme=transparent&hide_border=true)
+<a href="https://github.com/Loic1363/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Loic1363" />
+</a>
+<a href="https://github.com/Loic1363/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Loic1363&layout=compact&langs_count=8&card_width=320" />
+</a>
