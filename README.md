@@ -7,4 +7,5 @@
   </a>
 </p>
 
-![snake gif](https://github.com/Loic1363/Loic1363/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Loic1363/Loic1363/blob/output/pacman-contributions.svg)
+
